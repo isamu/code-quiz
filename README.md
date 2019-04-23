@@ -59,6 +59,10 @@ git fetch upstream
 git merge upstream/master
 ```
 
+### 問題
+1. [Fizz Buzz問題](./works/00/01/)
+1. [Fibonacci number(フィボナッチ数)](./works/00/02/)
+
 ### 問題を投稿する
 
 PRください。
