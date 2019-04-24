@@ -57,3 +57,7 @@ jobs:
       - store_artifacts:
           path: /tmp/test-results
           destination: test-results
+
+      - run
+          name: Notification
+          command: bash .circleci/notification.sh
