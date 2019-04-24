@@ -58,6 +58,6 @@ jobs:
           path: /tmp/test-results
           destination: test-results
 
-      - run
+      - run:
           name: Notification
           command: bash .circleci/notification.sh
