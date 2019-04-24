@@ -1,5 +1,5 @@
 class Works2_Fibonacci
-  def test n
+  #def test n
   #  "implement here"
-  end
+  #end
 end
